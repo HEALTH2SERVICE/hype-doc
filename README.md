@@ -1,20 +1,22 @@
-## Welcome to Hype Document
+# [Nextra](https://nextra.vercel.app)
 
-### NextJS
+_Warning: this project is not production ready, API might change without notice._
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[![](https://vercel.com/button)](https://vercel.com/import/git?s=https%3A%2F%2Fgithub.com%2Fshuding%2Fnextra&c=1)
 
-```markdown
-Syntax highlighted code block
+**Nextra** is a [Next.js](https://nextjs.org) and [MDX](https://mdxjs.com) powered, no-code site generator.
 
-# Header 1
-## Header 2
-### Header 3
+![](/public/demo.png)
 
-- Bulleted
-- List
+## Development
 
-1. Numbered
-2. List
+The code of Nextra is under the [`core`](https://github.com/shuding/nextra/tree/core) branch.
 
-**Bold** and _Italic_ and `Code` text
+## Themes
+
+- [nextra-theme-docs](https://github.com/vercel/swr-site) ([demo](https://swr.vercel.app))
+- [nextra-theme-blog](https://github.com/shuding/site) ([demo](https://shud.in))
+
+---
+
+Created by [@shuding](https://github.com/shuding) and [@pacocoursey](https://github.com/pacocoursey) at [Vercel](https://vercel.com). Released under the MIT license.

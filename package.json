@@ -5,5 +5,24 @@
     "nextra-theme-docs": "^1.2.6",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
-  }
+  },
+  "name": "hype-doc",
+  "description": "Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for",
+  "version": "1.0.0",
+  "main": "pages/_app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx next build && npx next export"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HEALTH2SERVICE/hype-doc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HEALTH2SERVICE/hype-doc/issues"
+  },
+  "homepage": "https://github.com/HEALTH2SERVICE/hype-doc#readme"
 }
